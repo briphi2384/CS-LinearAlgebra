@@ -1,0 +1,2 @@
+Area of triangle: 12.37
+Distance from plane to point: 5.05
